@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-git clone https://github.com/alejandrocepeda/rule-of-thump-api-.git
+git clone https://github.com/alejandrocepeda/rule-of-thump-api.git
 cd rule-of-thump-api
 npm install
 ```

@@ -46,12 +46,12 @@ const operatorsAliases = {
 };
 
 const sequelize = new Sequelize({
-  database: config.dbName,
-  username: config.dbUser,
-  password: config.dbPassword,
-  host: config.dbHost,
-  port:config.dbPort,
-  dialect:config.dbDialect,
+  database: 'rule-of-thump',
+  username: 'user',
+  password: 'user',
+  host: '72.55.168.5',
+  port:'5433',
+  dialect:'postgres',
   define: {
     timestamps: false,
     underscored: true

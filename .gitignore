@@ -4,4 +4,3 @@ node_modules
 *.log
 public
 node_modules
-config/config.json

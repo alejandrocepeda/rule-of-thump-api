@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "user",
+    "password": "user",
+    "database": "rule-of-thump",
+    "host": "72.55.168.5",
+    "port":"5433",
+    "dialect": "postgres",
+    "operatorsAliases": 0
+  },
+  "test": {
+    "username": "user",
+    "password": "user",
+    "database": "rule-of-thump",
+    "host": "127.0.0.1",
+    "port":"5433",
+    "dialect": "postgres",
+    "operatorsAliases": 0
+  },
+  "production": {
+    "username": "user",
+    "password": "user",
+    "database": "rule-of-thump",
+    "host": "127.0.0.1",
+    "port":"5433",
+    "dialect": "postgres",
+    "operatorsAliases": 0
+  }
+}
